@@ -1,0 +1,1 @@
+{"permanent_path": "./log/datalog", "tmp_path": "/tmp", "log_path": "./log/tplog", "log_format": "epoch", "mqtt_ip": "xxx.xxx.xxx.xxx", "mqtt_port": "1883"}
