@@ -6,4 +6,4 @@ Integrate TP-link Smartplug HS110 into Jeedom, with the help of MQTT messages
 
 For the full story, see [Reverse Engineering the TP-Link HS110](https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/)
 
-Work based on softScheck/tplink-smartplug 
+Work based on [softScheck/tplink-smartplug](https://github.com/softScheck/tplink-smartplug)
